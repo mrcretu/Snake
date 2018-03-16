@@ -6,3 +6,4 @@ să puncteze cât mai mult înaintea voastră.
 - Jocul va conține un scoreboard cu cele mai bune scoruri.
 - Pe tablă se vor afla diverse powerup-uri (viteză marită / scăzuta, dimensiune mai
 mică, scor dublu etc)
+
